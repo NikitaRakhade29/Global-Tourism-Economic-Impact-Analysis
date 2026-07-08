@@ -1,0 +1,267 @@
+country,country_code,row_type,continent
+Aruba,ABW,Country,America
+Africa Eastern and Southern,AFE,Aggregate,N/A - Aggregate
+Afghanistan,AFG,Country,Asia
+Africa Western and Central,AFW,Aggregate,N/A - Aggregate
+Angola,AGO,Country,Africa
+Albania,ALB,Country,Europe
+Andorra,AND,Country,Europe
+Arab World,ARB,Aggregate,N/A - Aggregate
+United Arab Emirates,ARE,Country,Asia
+Argentina,ARG,Country,America
+Armenia,ARM,Country,Asia
+American Samoa,ASM,Country,Oceania
+Antigua and Barbuda,ATG,Country,America
+Australia,AUS,Country,Oceania
+Austria,AUT,Country,Europe
+Azerbaijan,AZE,Country,Asia
+Burundi,BDI,Country,Africa
+Belgium,BEL,Country,Europe
+Benin,BEN,Country,Africa
+Burkina Faso,BFA,Country,Africa
+Bangladesh,BGD,Country,Asia
+Bulgaria,BGR,Country,Europe
+Bahrain,BHR,Country,Asia
+"Bahamas, The",BHS,Country,America
+Bosnia and Herzegovina,BIH,Country,Europe
+Belarus,BLR,Country,Europe
+Belize,BLZ,Country,America
+Bermuda,BMU,Country,America
+Bolivia,BOL,Country,America
+Brazil,BRA,Country,America
+Barbados,BRB,Country,America
+Brunei Darussalam,BRN,Country,Asia
+Bhutan,BTN,Country,Asia
+Botswana,BWA,Country,Africa
+Central African Republic,CAF,Country,Africa
+Canada,CAN,Country,America
+Central Europe and the Baltics,CEB,Aggregate,N/A - Aggregate
+Switzerland,CHE,Country,Europe
+Channel Islands,CHI,Country,Unclassified
+Chile,CHL,Country,America
+China,CHN,Country,Asia
+Cote d'Ivoire,CIV,Country,Africa
+Cameroon,CMR,Country,Africa
+"Congo, Dem. Rep.",COD,Country,Africa
+"Congo, Rep.",COG,Country,Africa
+Colombia,COL,Country,America
+Comoros,COM,Country,Africa
+Cabo Verde,CPV,Country,Africa
+Costa Rica,CRI,Country,America
+Caribbean small states,CSS,Aggregate,N/A - Aggregate
+Cuba,CUB,Country,America
+Curacao,CUW,Country,America
+Cayman Islands,CYM,Country,America
+Cyprus,CYP,Country,Asia
+Czechia,CZE,Country,Europe
+Germany,DEU,Country,Europe
+Djibouti,DJI,Country,Africa
+Dominica,DMA,Country,America
+Denmark,DNK,Country,Europe
+Dominican Republic,DOM,Country,America
+Algeria,DZA,Country,Africa
+East Asia & Pacific (excluding high income),EAP,Aggregate,N/A - Aggregate
+Early-demographic dividend,EAR,Aggregate,N/A - Aggregate
+East Asia & Pacific,EAS,Aggregate,N/A - Aggregate
+Europe & Central Asia (excluding high income),ECA,Aggregate,N/A - Aggregate
+Europe & Central Asia,ECS,Aggregate,N/A - Aggregate
+Ecuador,ECU,Country,America
+"Egypt, Arab Rep.",EGY,Country,Africa
+Euro area,EMU,Aggregate,N/A - Aggregate
+Eritrea,ERI,Country,Africa
+Spain,ESP,Country,Europe
+Estonia,EST,Country,Europe
+Ethiopia,ETH,Country,Africa
+European Union,EUU,Aggregate,N/A - Aggregate
+Fragile and conflict affected situations,FCS,Aggregate,N/A - Aggregate
+Finland,FIN,Country,Europe
+Fiji,FJI,Country,Oceania
+France,FRA,Country,Europe
+Faroe Islands,FRO,Country,Europe
+"Micronesia, Fed. Sts.",FSM,Country,Oceania
+Gabon,GAB,Country,Africa
+United Kingdom,GBR,Country,Europe
+Georgia,GEO,Country,Asia
+Ghana,GHA,Country,Africa
+Gibraltar,GIB,Country,Europe
+Guinea,GIN,Country,Africa
+"Gambia, The",GMB,Country,Africa
+Guinea-Bissau,GNB,Country,Africa
+Equatorial Guinea,GNQ,Country,Africa
+Greece,GRC,Country,Europe
+Grenada,GRD,Country,America
+Greenland,GRL,Country,America
+Guatemala,GTM,Country,America
+Guam,GUM,Country,Oceania
+Guyana,GUY,Country,America
+High income,HIC,Aggregate,N/A - Aggregate
+"Hong Kong SAR, China",HKG,Country,Asia
+Honduras,HND,Country,America
+Heavily indebted poor countries (HIPC),HPC,Aggregate,N/A - Aggregate
+Croatia,HRV,Country,Europe
+Haiti,HTI,Country,America
+Hungary,HUN,Country,Europe
+IBRD only,IBD,Aggregate,N/A - Aggregate
+IDA & IBRD total,IBT,Aggregate,N/A - Aggregate
+IDA total,IDA,Aggregate,N/A - Aggregate
+IDA blend,IDB,Aggregate,N/A - Aggregate
+Indonesia,IDN,Country,Asia
+IDA only,IDX,Aggregate,N/A - Aggregate
+Isle of Man,IMN,Country,Europe
+India,IND,Country,Asia
+Not classified,INX,Country,Unclassified
+Ireland,IRL,Country,Europe
+"Iran, Islamic Rep.",IRN,Country,Asia
+Iraq,IRQ,Country,Asia
+Iceland,ISL,Country,Europe
+Israel,ISR,Country,Asia
+Italy,ITA,Country,Europe
+Jamaica,JAM,Country,America
+Jordan,JOR,Country,Asia
+Japan,JPN,Country,Asia
+Kazakhstan,KAZ,Country,Asia
+Kenya,KEN,Country,Africa
+Kyrgyz Republic,KGZ,Country,Asia
+Cambodia,KHM,Country,Asia
+Kiribati,KIR,Country,Oceania
+St. Kitts and Nevis,KNA,Country,America
+"Korea, Rep.",KOR,Country,Asia
+Kuwait,KWT,Country,Asia
+Latin America & Caribbean (excluding high income),LAC,Aggregate,N/A - Aggregate
+Lao PDR,LAO,Country,Asia
+Lebanon,LBN,Country,Asia
+Liberia,LBR,Country,Africa
+Libya,LBY,Country,Africa
+St. Lucia,LCA,Country,America
+Latin America & Caribbean,LCN,Aggregate,N/A - Aggregate
+Least developed countries: UN classification,LDC,Aggregate,N/A - Aggregate
+Low income,LIC,Aggregate,N/A - Aggregate
+Liechtenstein,LIE,Country,Europe
+Sri Lanka,LKA,Country,Asia
+Lower middle income,LMC,Aggregate,N/A - Aggregate
+Low & middle income,LMY,Aggregate,N/A - Aggregate
+Lesotho,LSO,Country,Africa
+Late-demographic dividend,LTE,Aggregate,N/A - Aggregate
+Lithuania,LTU,Country,Europe
+Luxembourg,LUX,Country,Europe
+Latvia,LVA,Country,Europe
+"Macao SAR, China",MAC,Country,Asia
+St. Martin (French part),MAF,Country,America
+Morocco,MAR,Country,Africa
+Monaco,MCO,Country,Europe
+Moldova,MDA,Country,Europe
+Madagascar,MDG,Country,Africa
+Maldives,MDV,Country,Asia
+Middle East & North Africa,MEA,Aggregate,N/A - Aggregate
+Mexico,MEX,Country,America
+Marshall Islands,MHL,Country,Oceania
+Middle income,MIC,Aggregate,N/A - Aggregate
+North Macedonia,MKD,Country,Europe
+Mali,MLI,Country,Africa
+Malta,MLT,Country,Europe
+Myanmar,MMR,Country,Asia
+Middle East & North Africa (excluding high income),MNA,Aggregate,N/A - Aggregate
+Montenegro,MNE,Country,Europe
+Mongolia,MNG,Country,Asia
+Northern Mariana Islands,MNP,Country,Oceania
+Mozambique,MOZ,Country,Africa
+Mauritania,MRT,Country,Africa
+Mauritius,MUS,Country,Africa
+Malawi,MWI,Country,Africa
+Malaysia,MYS,Country,Asia
+North America,NAC,Aggregate,N/A - Aggregate
+Namibia,NAM,Country,Africa
+New Caledonia,NCL,Country,Oceania
+Niger,NER,Country,Africa
+Nigeria,NGA,Country,Africa
+Nicaragua,NIC,Country,America
+Netherlands,NLD,Country,Europe
+Norway,NOR,Country,Europe
+Nepal,NPL,Country,Asia
+Nauru,NRU,Country,Oceania
+New Zealand,NZL,Country,Oceania
+OECD members,OED,Aggregate,N/A - Aggregate
+Oman,OMN,Country,Asia
+Other small states,OSS,Aggregate,N/A - Aggregate
+Pakistan,PAK,Country,Asia
+Panama,PAN,Country,America
+Peru,PER,Country,America
+Philippines,PHL,Country,Asia
+Palau,PLW,Country,Oceania
+Papua New Guinea,PNG,Country,Oceania
+Poland,POL,Country,Europe
+Pre-demographic dividend,PRE,Aggregate,N/A - Aggregate
+Puerto Rico,PRI,Country,America
+"Korea, Dem. People's Rep.",PRK,Country,Asia
+Portugal,PRT,Country,Europe
+Paraguay,PRY,Country,America
+West Bank and Gaza,PSE,Country,Asia
+Pacific island small states,PSS,Aggregate,N/A - Aggregate
+Post-demographic dividend,PST,Aggregate,N/A - Aggregate
+French Polynesia,PYF,Country,Oceania
+Qatar,QAT,Country,Asia
+Romania,ROU,Country,Europe
+Russian Federation,RUS,Country,Europe
+Rwanda,RWA,Country,Africa
+South Asia,SAS,Aggregate,N/A - Aggregate
+Saudi Arabia,SAU,Country,Asia
+Sudan,SDN,Country,Africa
+Senegal,SEN,Country,Africa
+Singapore,SGP,Country,Asia
+Solomon Islands,SLB,Country,Oceania
+Sierra Leone,SLE,Country,Africa
+El Salvador,SLV,Country,America
+San Marino,SMR,Country,Europe
+Somalia,SOM,Country,Africa
+Serbia,SRB,Country,Europe
+Sub-Saharan Africa (excluding high income),SSA,Aggregate,N/A - Aggregate
+South Sudan,SSD,Country,Africa
+Sub-Saharan Africa,SSF,Aggregate,N/A - Aggregate
+Small states,SST,Aggregate,N/A - Aggregate
+Sao Tome and Principe,STP,Country,Africa
+Suriname,SUR,Country,America
+Slovak Republic,SVK,Country,Europe
+Slovenia,SVN,Country,Europe
+Sweden,SWE,Country,Europe
+Eswatini,SWZ,Country,Africa
+Sint Maarten (Dutch part),SXM,Country,America
+Seychelles,SYC,Country,Africa
+Syrian Arab Republic,SYR,Country,Asia
+Turks and Caicos Islands,TCA,Country,America
+Chad,TCD,Country,Africa
+East Asia & Pacific (IDA & IBRD countries),TEA,Aggregate,N/A - Aggregate
+Europe & Central Asia (IDA & IBRD countries),TEC,Aggregate,N/A - Aggregate
+Togo,TGO,Country,Africa
+Thailand,THA,Country,Asia
+Tajikistan,TJK,Country,Asia
+Turkmenistan,TKM,Country,Asia
+Latin America & the Caribbean (IDA & IBRD countries),TLA,Aggregate,N/A - Aggregate
+Timor-Leste,TLS,Country,Asia
+Middle East & North Africa (IDA & IBRD countries),TMN,Aggregate,N/A - Aggregate
+Tonga,TON,Country,Oceania
+South Asia (IDA & IBRD),TSA,Aggregate,N/A - Aggregate
+Sub-Saharan Africa (IDA & IBRD countries),TSS,Aggregate,N/A - Aggregate
+Trinidad and Tobago,TTO,Country,America
+Tunisia,TUN,Country,Africa
+Turkiye,TUR,Country,Asia
+Tuvalu,TUV,Country,Oceania
+Tanzania,TZA,Country,Africa
+Uganda,UGA,Country,Africa
+Ukraine,UKR,Country,Europe
+Upper middle income,UMC,Aggregate,N/A - Aggregate
+Uruguay,URY,Country,America
+United States,USA,Country,America
+Uzbekistan,UZB,Country,Asia
+St. Vincent and the Grenadines,VCT,Country,America
+"Venezuela, RB",VEN,Country,America
+British Virgin Islands,VGB,Country,America
+Virgin Islands (U.S.),VIR,Country,America
+Viet Nam,VNM,Country,Asia
+Vanuatu,VUT,Country,Oceania
+World,WLD,Aggregate,N/A - Aggregate
+Samoa,WSM,Country,Oceania
+Kosovo,XKX,Country,Europe
+"Yemen, Rep.",YEM,Country,Asia
+South Africa,ZAF,Country,Africa
+Zambia,ZMB,Country,Africa
+Zimbabwe,ZWE,Country,Africa
