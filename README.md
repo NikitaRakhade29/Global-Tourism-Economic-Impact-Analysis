@@ -1,6 +1,6 @@
 # 🌍 Global Tourism Economic Impact Analysis
 
-An end-to-end data analysis project exploring how international tourism shapes the economies of countries around the world — using 25 years of arrivals, receipts, GDP, and macroeconomic data, brought together in an interactive Tableau dashboard.
+An end-to-end data analysis project exploring how international tourism shapes the economies of countries around the world - using 25 years of arrivals, receipts, GDP, and macroeconomic data, brought together in an interactive Tableau dashboard.
 
 ![Dashboard Preview](images/Dashboard.png)
 
