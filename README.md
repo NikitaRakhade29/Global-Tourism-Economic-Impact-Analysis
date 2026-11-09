@@ -64,9 +64,9 @@ Key fields include:
 
 ## 🛠️ Tools & Technologies
 
-- **Tableau** — data visualization and interactive dashboard building
-- **CSV / Excel-based data cleaning** — preparing raw tourism and economic data for analysis
-- **Data modeling** — joining tourism datasets with country/continent lookup tables
+- **Tableau** - data visualization and interactive dashboard building
+- **CSV / Excel-based data cleaning** - preparing raw tourism and economic data for analysis
+- **Data modeling** - joining tourism datasets with country/continent lookup tables
 
 ---
 
